@@ -28,7 +28,7 @@ public:
     void print_sqrt() {
         cout << "1st Diagonal = " << a << endl;
         cout << "2nd Diagonal = " << b << endl;
-        cout << "Square = " << a * b;
+        cout << "Square = " << 0.5 * (a * b);
     }
 };
 int main() {
