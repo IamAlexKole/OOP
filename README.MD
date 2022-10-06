@@ -15,7 +15,7 @@ c) його методи дозволяють отримувати і присв
 
 d) функція print_sqrt () виводить на екран значення a, b і площі цієї фігури.
 
-Task 2
+Task 4
 
 ![img.png](task4_head.png)
 ![img.png](task4_body.png)
