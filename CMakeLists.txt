@@ -7,4 +7,4 @@ add_executable(ClassesObjects LAB1/lb1.cpp)
 add_executable(UsingOfCopyConstructor LAB4/lb4.cpp)
 add_executable(OperationOverload LAB5/lb5.cpp)
 add_executable(Inheritance LAB6/lb6.cpp LAB6/lb6.cpp)
-
+add_executable(VirtualFunctions+Polymorphism LAB7/lb7.cpp LAB7/lb7.cpp)
