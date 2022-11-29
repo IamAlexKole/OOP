@@ -89,8 +89,6 @@ void MilkProduct::show()
 int main()
 {
     if(true){
-        SetConsoleOutputCP(1251);
-
         Goods f;
 
         Toy a;
