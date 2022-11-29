@@ -106,7 +106,6 @@ int main()
     Hexagon b(7, 4, 3);
     cout << a  ;
     c=a+b;
-
     c.getSide() ;
     c.getArea() ;
     c1=++c;
